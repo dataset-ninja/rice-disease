@@ -11,7 +11,7 @@ PROJECT_NAME_FULL: str = "Rice leaf diseases with boundary box"
 ##################################
 # * After uploading to instance ##
 ##################################
-LICENSE: License = License.CC0_1_0
+LICENSE: License = License.CC0_1_0()
 INDUSTRIES: List[Industry] = Industry.Agriculture()
 CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.ObjectDetection()]
