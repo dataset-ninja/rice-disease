@@ -1,1 +1,1 @@
-Rice leaf diseases with boundary box is under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) license.
+Rice Leaf Diseases with Boundary Box is under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) license.
