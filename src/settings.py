@@ -14,7 +14,7 @@ from dataset_tools.templates import (
 # * Before uploading to instance #
 ##################################
 PROJECT_NAME: str = "Rice Disease"
-PROJECT_NAME_FULL: str = "Rice leaf diseases with boundary box"
+PROJECT_NAME_FULL: str = "Rice Leaf Diseases with Boundary Box"
 
 ##################################
 # * After uploading to instance ##
