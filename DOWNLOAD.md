@@ -1,6 +1,6 @@
 Dataset **Rice Disease** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzEwMTRfUmljZSBEaXNlYXNlL3JpY2UtZGlzZWFzZS1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICIwaEZMd3oxakF2UnF6dS9OYkpQd3RneHNlYkM3SDdyN3BGaEJtaG5oUkk0PSJ9)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogInMzOi8vc3VwZXJ2aXNlbHktZGF0YXNldHMvMTAxNF9SaWNlIERpc2Vhc2UvcmljZS1kaXNlYXNlLURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogImJJMytrVEdUSktKaVdCU0ZDSDA5UEdFN0x5dFpkUk5aUlVKSlA0Wmkzdjg9In0=?response-content-disposition=attachment%3B%20filename%3D%22rice-disease-DatasetNinja.tar%22)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
